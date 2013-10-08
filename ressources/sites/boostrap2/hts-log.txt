@@ -1,0 +1,20 @@
+HTTrack3.46+htsswf+htsjava launched on Thu, 03 Jan 2013 15:34:35 at http://wbpreview.com/previews/WB035H89C/ +*.png +*.gif +*.jpg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2010], %s -->" -%l "fr, en, *" http://wbpreview.com/previews/WB035H89C/ -O1 "C:\Mes Sites Web\boostrap2" +*.png +*.gif +*.jpg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+15:35:02	Error: 	"Not Found" (404) at link wbpreview.com/previews/assets/ico/apple-touch-icon-144-precomposed.png (from wbpreview.com/previews/WB035H89C/)
+15:35:02	Error: 	"Not Found" (404) at link wbpreview.com/previews/assets/ico/apple-touch-icon-114-precomposed.png (from wbpreview.com/previews/WB035H89C/)
+15:35:02	Error: 	"Not Found" (404) at link wbpreview.com/previews/assets/ico/apple-touch-icon-72-precomposed.png (from wbpreview.com/previews/WB035H89C/)
+15:35:02	Error: 	"Not Found" (404) at link wbpreview.com/previews/assets/ico/apple-touch-icon-57-precomposed.png (from wbpreview.com/previews/WB035H89C/)
+15:35:02	Error: 	"Not Found" (404) at link wbpreview.com/previews/WB035H89C/index.html (from wbpreview.com/previews/WB035H89C/)
+15:35:38	Error: 	"Not Found" (404) at link wbpreview.com/previews/WB035H89C/assets/img/thumbs/1.jpg (from wbpreview.com/previews/WB035H89C/properties.htm)
+15:35:38	Error: 	"Not Found" (404) at link wbpreview.com/previews/WB035H89C/assets/img/thumbs/3.jpg (from wbpreview.com/previews/WB035H89C/properties.htm)
+15:35:38	Error: 	"Not Found" (404) at link wbpreview.com/previews/WB035H89C/assets/img/thumbs/4.jpg (from wbpreview.com/previews/WB035H89C/properties.htm)
+15:37:29	Error: 	"No data (connection closed)" (-4) after 2 retries at link wbpreview.com/previews/WB035H89C/assets/img/bgside.png (from wbpreview.com/previews/WB035H89C/assets/css/custom.css)
+
+HTTrack Website Copier/3.46 mirror complete in 2 minutes 54 seconds : 75 links scanned, 60 files written (4938617 bytes overall) [4259710 bytes received at 24481 bytes/sec], 417437 bytes transfered using HTTP compression in 25 files, ratio 27%, 2.0 requests per connection
+(9 errors, 0 warnings, 0 messages)

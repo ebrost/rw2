@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+myorange.ca	TRUE	/	FALSE	1999999999	PHPSESSID	qp8f148fgll2uagvf982k92gk2
+
